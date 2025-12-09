@@ -1,0 +1,6 @@
+[submodule "layout/lclayout"]
+	path = layout/lclayout
+	url = https://codeberg.org/librecell/lclayout
+[submodule "layout/StdCellLib"]
+	path = layout/StdCellLib
+	url = https://github.com/thesourcerer8/StdCellLib/
